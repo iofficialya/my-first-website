@@ -1,0 +1,19 @@
+.box{
+    border: 5px solid black;
+    border-radius: 15px;
+    margin: 10px;
+    padding: 30px;
+    height: 30%;
+    width: 30%;
+    float: left;
+}
+
+.surc{
+    text-align: center;
+    color: blue;
+    font-style: italic;
+}
+p{
+    text-align: center;
+
+}
